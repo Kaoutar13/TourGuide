@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Morocco</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--TabLayout titles-->
+    <string name="cities">Cities</string>
+    <string name="sites">Sites</string>
+    <string name="food">Food</string>
+    <string name="craft">Craft</string>
+
+    <!--Names of the cities in Morocco-->
+    <string name="city_ozt">Ouarzazate</string>
+    <string name="city_kech">Marrakech</string>
+    <string name="city_casa">Casablanca</string>
+    <string name="city_rabat">Rabat</string>
+    <string name="city_fes">Fes</string>
+    <string name="city_tangier">Tangier</string>
+    <string name="city_houssaima">Al Hoceima</string>
+    <string name="city_essaouira">Essaouira</string>
+    <string name="city_agadir">Agadir</string>
+    <string name="city_chawn">Chefchaoun</string>
+    <string name="city_meknes">Meknes</string>
+    <string name="city_zagoura">Zagoura</string>
+    <string name="city_safi">Safi</string>
+    <string name="city_beni_mellal">Beni Mellal</string>
+    <string name="city_dakhla">Ad Dakhla</string>
+    <string name="city_jdida">El Jadida</string>
+    <string name="city_bouknadel">Bouknadel</string>
+
+    <!--Names of the sites in Morocco-->
+    <string name="site_hassan2">Hassan II Mosque</string>
+    <string name="site_taourirt">Taourirt Castle</string>
+    <string name="site_ben_haddou">Ait Ben Haddou Castle</string>
+    <string name="site_hassan_tower">Hassan Tower</string>
+    <string name="site_majorelle">Majorelle Garden</string>
+    <string name="site_exotic">The Exotic Gardens</string>
+    <string name="site_ourika">Ourika Valley</string>
+    <string name="site_volubulis">Archaeological Site of Volubulis</string>
+    <string name="site_ouzoud">Ouzoud Waterfalls</string>
+    <string name="site_badia">El Badia Palace</string>
+    <string name="site_ben_youssef">Medrasa Ben Youssef</string>
+    <string name="site_udaya">Kasbah of the Udayas</string>
+    <string name="site_saadian_tombs">Saadian Tombs</string>
+    <string name="site_bahia">Bahia Palace</string>
+    <string name="site_todgha">Todgha Gorges</string>
+    <string name="site_oukaimeden">Oukaimeden</string>
+    <string name="site_toubkal">Toubkal</string>
+    <string name="site_portuguese">The Portuguese City of Mazagan</string>
+    <string name="site_caves">Caves of Hercules</string>
+    <string name="site_tanning">Tanning Pits</string>
+
+    <!--Names of the types of Food-->
+    <string name="food_tanjia">Tanjia</string>
+    <string name="food_couscous">Couscous</string>
+    <string name="food_rfissa">Chicken Rfissa</string>
+    <string name="food_harsha">Harsha</string>
+    <string name="food_bessara">Bessara</string>
+    <string name="food_seffa">Seffa</string>
+    <string name="food_pastilla">Pastilla</string>
+    <string name="food_paella">Paella</string>
+    <string name="food_tajine">Tajine</string>
+    <string name="food_maakouda">Maakouda</string>
+    <string name="food_kaab">Kaab El Ghzal</string>
+    <string name="food_briouat">Briouat Bil Luz</string>
+
+
+    <!--Names of items to buy-->
+    <string name="craft_babouche">Babouche</string>
+    <string name="craft_bags">Leather Bags</string>
+    <string name="craft_basket">Berber Baskets</string>
+    <string name="craft_spices">Moroccan Spices</string>
+    <string name="craft_dried_goods">Dried Goods</string>
+    <string name="craft_wood">Wooden Items</string>
+    <string name="craft_zellige">Zellige (Tile Work)</string>
+    <string name="craft_soap">Artisanal Soaps</string>
+    <string name="craft_pottery">Pottery</string>
+    <string name="craft_rugs">Rugs and Carpets</string>
+    <string name="craft_lantern">Lanterns</string>
+    <string name="craft_argan">Argan Oil</string>
+
+
+</resources>
